@@ -1,0 +1,23 @@
+Match structure
+
+The toss 
+
+On the day of the match, the captains inspect the pitch to determine the type of bowlers whose bowling would be suited for the offered pitch surface and select their eleven players. The two opposing captains then toss a coin. The captain winning the toss may choose either to bat or bowl first.
+
+Overs 
+
+Each innings is subdivided into overs. Each over consists of six consecutive legal (see "Extras" for details) deliveries bowled by the same bowler. No bowler is allowed to bowl consecutive overs. After the completion of an over, the bowler takes up a fielding position, while another player takes over the bowling.
+
+After every over, the batting and bowling ends are swapped, and the field positions are adjusted. The umpires swap so the umpire at the bowler's end moves to square leg, and the umpire at square leg moves to the new bowler's end.
+End of an innings 
+
+An innings is completed if:
+1.	Ten out of eleven batsmen are 'out' (dismissed). 
+2.	A team chasing a given target number of runs to win manages to do so. 
+3.	The predetermined number of overs are bowled (in a one-day match only, usually 50 overs). 
+4.	A captain declares his innings closed (this does not apply to one-day limited over matches). 
+
+Playing time 
+
+Typically, two innings matches are played over three to five days with at least six hours of cricket being played each day. One innings matches are usually played over one day for six hours or more. There are formal intervals on each day for lunch and tea, and shorter breaks for drinks, where necessary. There is also a short interval between innings.
+
